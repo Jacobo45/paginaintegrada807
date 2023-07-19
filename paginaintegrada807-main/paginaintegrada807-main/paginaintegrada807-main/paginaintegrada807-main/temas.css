@@ -14,14 +14,14 @@
 .menu{
     width: 100%;
     height: 80px;
-    background-color: blueviolet;
+    background-color: blue;
     display: flex;
 }
 .contenedor2{
     display: flex;
 width: 100%;
 height: 1200px;
-background-color:blueviolet ;
+background-color:darkred ;
 }
 .izquierda{
     width: 20%;
@@ -36,7 +36,7 @@ background-color: darkkhaki;
 .derecho{
     width: 20%;
     height: 1200px;
-    background-color: deeppink;
+    background-color: rgb(100, 6, 56);
 }
 .ingles{
     width: 100px;
@@ -50,7 +50,7 @@ background-color: darkkhaki;
     background-color: aqua;
     margin: 2px;
 }
-.biologia{
+.matematicas{
     width: 100px;
     height: 78px;
     background-color: aqua;
