@@ -12,7 +12,7 @@
     
     body{
     
-    background-image: url("PANEZITORIKO.jpg");
+    background-image: url("ROCA.PNG");
     
     background-repeat: no-repeat;
     background-size: cover;
@@ -59,10 +59,276 @@
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(255, 255, 255);
     
      
     
     }
 
     
+
+    .contenido{
+
+    height: 280px;
+        
+    width: 100%;
+        
+     position: absolute;
+        
+    top: 410px;
+        
+         
+        
+    }
+        
+         
+        
+    .imageningle{
+        
+         
+        
+    background-repeat: no-repeat;
+        
+    float:left;
+        
+    height: 200px;
+        
+    width: 260px;
+        
+    margin-left: 5px;
+        
+    margin-right:5px;
+        
+    background-image: url("anorexia.jpg");
+        
+    }
+        
+        
+        
+    .textoingle{
+        
+    text-align: justify;
+        
+    color: rgb(242, 247, 247);
+        
+     font-size: 10px;
+        
+        
+        
+     }
+
+
+
+
+
+
+
+
+
+
+    .contenido{
+
+    height: 280px;
+            
+    width: 100%;
+            
+    position: absolute;
+            
+    top: 410px;
+            
+             
+            
+     }
+            
+             
+            
+    .imagentecno{
+            
+             
+            
+    background-repeat: no-repeat;
+            
+    float:left;
+            
+    height: 200px;
+            
+    width: 260px;
+            
+    margin-left: 5px;
+            
+    margin-right:5px;
+            
+    background-image: url("operador electronico.png");
+            
+     }
+            
+            
+            
+    .textotecno{
+            
+    text-align: justify;
+            
+    color: rgb(233, 238, 238);
+            
+font-size: 20px;
+            
+            
+            
+ }
+
+.contenido{
+
+height: 280px;
+                
+width: 100%;
+                
+position: absolute;
+                
+top: 410px;
+                
+                 
+                
+ }
+                
+                 
+                
+.imagenmate{
+                
+                 
+                
+background-repeat: no-repeat;
+                
+float:left;
+                
+height: 200px;
+                
+width: 260px;
+                
+margin-left: 5px;
+                
+ margin-right:5px;
+                
+background-image: url("operador electronico.png");
+                
+ }
+                
+                
+                
+.textomate{
+                
+text-align: justify;
+                
+color: azure;
+                
+font-size: 20px;
+                
+                
+                
+ }
+
+
+
+
+.contenido{
+
+height: 280px;
+       
+width: 100%;
+                    
+position: absolute;
+                    
+top: 410px;
+                    
+                     
+  }
+                    
+                     
+                    
+.imagensocia{
+                    
+                     
+                    
+ background-repeat: no-repeat;
+                    
+float:left;
+                    
+height: 200px;
+                    
+width: 260px;
+                    
+margin-left: 5px;
+                    
+margin-right:5px;
+                    
+background-image: url("operador electronico.png");
+                    
+  }
+                    
+                    
+                    
+.textosocia{
+                    
+text-align: justify;
+                    
+color: azure;
+                    
+font-size: 20px;
+                    
+                    
+                    
+}
+
+
+
+contenido{
+
+    height: 280px;
+        
+    width: 100%;
+        
+     position: absolute;
+        
+    top: 410px;
+        
+         
+        
+    }
+        
+         
+        
+    .imagenreli{
+        
+         
+        
+    background-repeat: no-repeat;
+        
+    float:left;
+        
+    height: 200px;
+        
+    width: 260px;
+        
+    margin-left: 5px;
+        
+    margin-right:5px;
+        
+    background-image: url("anorexia.jpg");
+        
+    }
+        
+        
+        
+    .textoreli{
+        
+    text-align: justify;
+        
+    color: azure;
+        
+     font-size: 10px;
+        
+        
+        
+     }
+
+
+
