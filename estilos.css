@@ -332,3 +332,109 @@ font-size: 20px;
 
 
 
+
+
+     .contenido{
+
+      height: 280px;
+          
+      width: 100%;
+          
+       position: absolute;
+          
+      top: 410px;
+          
+           
+          
+      }
+          
+           
+          
+      .imageningles{
+          
+           
+          
+      background-repeat: no-repeat;
+          
+      float:left;
+          
+      height: 200px;
+          
+      width: 260px;
+          
+      margin-left: 5px;
+          
+      margin-right:5px;
+          
+      background-image: url("");
+          
+      }
+          
+          
+          
+      .textoingles{
+          
+      text-align: justify;
+          
+      color: rgb(242, 247, 247);
+          
+       font-size: 10px;
+          
+        
+       }
+
+
+
+
+  .contenido{
+
+height: 280px;
+       
+width: 100%;
+                    
+position: absolute;
+                    
+top: 410px;
+                    
+                     
+  }
+                    
+                     
+                    
+.imagensociales{
+                    
+                     
+                    
+ background-repeat: no-repeat;
+                    
+float:left;
+                    
+height: 950px;
+                    
+width: 2100px;
+                    
+margin-left: 5px;
+                    
+margin-right:100px;
+                    
+background-image: url("revolucion\ industrial.webp");
+                    
+  }
+                    
+                    
+                    
+.textosociales{
+                    
+text-align: justify;
+                    
+color: azure;
+                    
+font-size: 20px;
+                    
+                    
+                    
+}
+
+
+
+
